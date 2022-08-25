@@ -1,3 +1,10 @@
 p {
     margin-left: 10px;
+    margin-top: 5px;
+}
+#date{
+    margin-left: 75%;
+}
+.thirdPara{
+    padding-left: 10%;
 }
